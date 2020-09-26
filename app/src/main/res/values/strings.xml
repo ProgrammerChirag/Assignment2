@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="_91">+91</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="send_otp">send OTP</string>
+    <string name="data">\?</string>
+    <string name="bussiness">Business</string>
+    <string name="are_you_a">Are you a</string>
+</resources>
